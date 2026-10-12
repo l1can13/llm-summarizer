@@ -1,0 +1,11 @@
+{
+  "run": "roberta_ext",
+  "epochs": 1,
+  "lr": 5e-05,
+  "batch_size": 16,
+  "train_size": 283823,
+  "steps": 17739,
+  "train_min": 61.25878189007441,
+  "peak_mem_gb": 5.276236057281494,
+  "best_val_ROUGE_mean": 34.97234547818002
+}

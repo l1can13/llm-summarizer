@@ -1,0 +1,11 @@
+{
+  "run": "probe_lr1e-05",
+  "epochs": 1,
+  "lr": 1e-05,
+  "batch_size": 16,
+  "train_size": 20000,
+  "steps": 1250,
+  "train_min": 4.751481338342031,
+  "peak_mem_gb": 5.279651165008545,
+  "best_val_ROUGE_mean": 34.18459186246438
+}

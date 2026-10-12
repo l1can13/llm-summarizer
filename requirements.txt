@@ -1,0 +1,16 @@
+# Python 3.14. Локально torch ставится с CUDA-сборкой:
+# pip install torch==2.14.0 --index-url https://download.pytorch.org/whl/cu130
+torch==2.14.0
+transformers==5.19.0
+huggingface_hub==1.33.0
+pandas==3.0.6
+pyarrow==25.0.1
+numpy==2.5.3
+rouge-score==0.1.2
+sacrebleu==2.6.0
+bert-score==0.3.13
+nltk==3.10.3
+openai==3.26.1
+python-dotenv==1.2.4
+matplotlib==3.11.2
+tqdm==4.70.1
